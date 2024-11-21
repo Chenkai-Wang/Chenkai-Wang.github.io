@@ -1,4 +1,2 @@
-# Chenkai-Wang.github.io
-Personal Website https://Chenkai-Wang.github.io
+Chenkai's personal website can be accessed through https://Chenkai-Wang.github.io
 
-Adapted from https://pingchuan.ma/
